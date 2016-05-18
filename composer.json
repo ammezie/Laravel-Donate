@@ -1,0 +1,46 @@
+{
+    "name": "mezie/donate",
+    "type": "library",
+    "description": "This is a Laravel 5 that adds donation functionality to your website.",
+    "keywords": [
+        "mezie",
+        "donate"
+    ],
+    "homepage": "https://github.com/ammezie/donate",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chimezie Enyinnaya",
+            "email": "meziemichael@gmail.com",
+            "homepage": "http://itoocode.com",
+            "role": "Web Developer"
+        }
+    ],
+    "require": {
+        "illuminate/support": "~5.1",
+        "php" : "~5.5|~7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit" : "4.*",
+        "scrutinizer/ocular": "~1.1",
+        "squizlabs/php_codesniffer": "~2.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mezie\\donate\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Mezie\\donate\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "phpunit"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
