@@ -7,7 +7,7 @@
 [![Quality Score][ico-code-quality]][link-code-quality]
 [![Total Downloads][ico-downloads]][link-downloads]
 
-This is a Laravel 5 that adds donation functionality to your website.
+A Laravel 5 that adds donation functionality to your website.
 
 
 
@@ -23,7 +23,7 @@ If you discover any security related issues, please email meziemichael@gmail.com
 
 ## Credits
 
-- [Chimezie Enyinnaya][http://twitter.com/ammezie]
+- [Chimezie Enyinnaya](http://twitter.com/ammezie)
 - [All Contributors][link-contributors]
 
 ## License
