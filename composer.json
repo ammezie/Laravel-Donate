@@ -27,7 +27,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Mezie\\donate\\": "src"
+            "Mezie\\Donate\\": "src"
         }
     },
     "autoload-dev": {
