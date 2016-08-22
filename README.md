@@ -7,7 +7,7 @@
 [![Quality Score][ico-code-quality]][link-code-quality]
 [![Total Downloads][ico-downloads]][link-downloads]
 
-A Laravel 5 that adds donation functionality to your website.
+A Laravel 5 package that adds donation functionality to your website.
 
 
 
